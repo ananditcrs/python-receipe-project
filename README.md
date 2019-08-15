@@ -1,2 +1,2 @@
-# python-receipe-project
+# python-recipe-project
 python project
